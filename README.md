@@ -41,6 +41,10 @@ flask run --debug
 
 ```bash
 pytest tests/ -v
+
+# q2-q-git-revert-env
+
+[![Daily Auto Commit](https://github.com/ashishprakashojha/q2-q-git-revert-env/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/ashishprakashojha/q2-q-git-revert-env/actions/workflows/daily-commit.yml)
 ```
 
 ## License
